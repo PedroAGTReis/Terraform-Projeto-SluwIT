@@ -8,3 +8,6 @@ Toda a infraestrutura foi organizada de forma modular, visando escalabilidade, m
 
 
 📚 Projeto desenvolvido e apresentado como Trabalho de Conclusão de Curso, com foco em aprendizado prático e aplicação real de conceitos de infraestrutura e computação em nuvem.
+
+
+OBS: Devido as limitações da conta AWS fornecida pela instituição de ensino, o Amazon EKS e derivados como o KEDA foram configurado manualmente
