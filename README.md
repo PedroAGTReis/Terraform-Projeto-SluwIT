@@ -1,4 +1,4 @@
-Projeto de Conclusão de Curso (TCC) — # Infraestrutura em Nuvem com Terraform e Amazon EKS
+# Projeto de Conclusão de Curso (TCC) — Infraestrutura em Nuvem com Terraform e Amazon EKS
 
 Este repositório contém o desenvolvimento completo do meu Projeto de Conclusão de Curso, cujo objetivo foi projetar e provisionar uma infraestrutura em nuvem utilizando Terraform como ferramenta de Infraestrutura como Código (IaC), com foco na criação e gerenciamento de um cluster Kubernetes (Amazon EKS) na AWS.
 
