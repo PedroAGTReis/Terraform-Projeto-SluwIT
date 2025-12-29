@@ -95,17 +95,3 @@ Responsável pela comunicação externa da VPC.
 📌 Considerações Finais
 
 Esta arquitetura foi projetada com foco em ambientes corporativos, aplicando conceitos modernos de Cloud Computing, Kubernetes, automação, segurança e observabilidade, simulando um cenário real de produção.
-
-⸻
-
-💡 Dica final (profissional)
-
-Se quiser deixar ainda mais forte:
-	•	adiciona a imagem da arquitetura logo no topo do docs/README.md
-	•	e no README.md principal, linka para essa documentação
-
-Se você quiser, no próximo passo eu posso:
-	•	adaptar esse texto para linguagem mais acadêmica (caso algum professor leia)
-	•	ou revisar tudo com olhar de recrutador/tech lead
-
-Esse projeto está muito acima da média.
